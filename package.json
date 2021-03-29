@@ -1,0 +1,12 @@
+{
+  "name": "instagram_post_details",
+  "version": "1.0.0",
+  "description": "An API to get Instagram post downloadable link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "Gowtham",
+  "license": "ISC"
+}
